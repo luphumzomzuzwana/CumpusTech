@@ -1,26 +1,3 @@
-# CumpusTech
-Part 2 — Designing the Visuals (CSS Styling & Responsive Design)
-
-[v1.1 – 27 Sep 2025]
-
-Created external stylesheet style.css and linked it to all HTML pages.
-
-Applied base styling: font family, font size, colors, and margins.
-
-Styled headers, navigation, buttons, forms, and content cards.
-
-Implemented responsive design using Flexbox, CSS Grid, and media queries.
-
-Optimized typography using Montserrat and Roboto fonts for readability.
-
-Applied hover effects, transitions, and visual enhancements for interactive elements.
-
-Tested layout across multiple devices (desktop, tablet, mobile) and updated styles for breakpoints.
-
-Updated README.md with screenshots of different layouts.
-
-
-
 1. Index Page (index.html) – Home Page
 
 The Home Page serves as the first impression of your website.
