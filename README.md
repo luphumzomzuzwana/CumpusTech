@@ -92,6 +92,11 @@ Optional links to social media accounts.
 
 <img width="1324" height="736" alt="image" src="https://github.com/user-attachments/assets/ecd91d28-f0fc-4fba-aeab-67f105172b2b" />
 
+<img width="1224" height="882" alt="image" src="https://github.com/user-attachments/assets/e21ecb10-1150-4716-9904-9cfa02d400a6" />
+
+
+
+
 References
 
 Beighley, L. & Morrison, M. (2017). Head First HTML and CSS. 2nd ed. Beijing: O’Reilly Media.
