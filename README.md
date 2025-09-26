@@ -86,6 +86,11 @@ Submit button with form validation.
 
 Optional links to social media accounts.
 
+<img width="1209" height="904" alt="image" src="https://github.com/user-attachments/assets/0a8fec84-aa3b-4d62-b8e3-2048eb24d282" />
+
+<img width="1335" height="817" alt="image" src="https://github.com/user-attachments/assets/b3bbd848-3b58-4c19-8be0-cb0052ed9c3d" />
+
+<img width="1324" height="736" alt="image" src="https://github.com/user-attachments/assets/ecd91d28-f0fc-4fba-aeab-67f105172b2b" />
 
 References
 
